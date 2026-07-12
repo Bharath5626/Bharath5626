@@ -103,20 +103,15 @@ A **Mistral-7B** model fine-tuned with **LoRA adapters** (Rank 16, Alpha 32) on 
 **Stack:** Python · Mistral-7B-Instruct · LoRA / PEFT · Hugging Face · Gradio · Transformers
 
 ---
-
-## 📊 GitHub Stats
+ 
+📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bharath5626&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath5626&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
+<img height="180em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Bharath5626&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Bharath5626&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
-
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Bharath5626&theme=tokyonight&hide_border=true)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath5626&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
